@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaibaMeeer
+- 👋 Hi, I’m @LaibaMeer
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on  interesting web projects where I can contribute and learn more.
